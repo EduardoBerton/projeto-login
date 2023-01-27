@@ -1,2 +1,2 @@
-# <a href="https://EduardoBerton.gituhb.io/projeto-login/" >projeto-login</a>
+# <a href="https://eduardoberton.github.io/projeto-login/" target="_blank">projeto-login</a>
  projeto tela de login
